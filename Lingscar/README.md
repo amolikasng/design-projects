@@ -28,4 +28,4 @@ The redesign focuses on creating a more structured and user-friendly experience.
 
 Experience the redesigned Lingscar website through the interactive Figma prototype.
 
-[🔗 View Lingscar Website Prototype ↗]([YOUR_FIGMA_PROTOTYPE_LINK_HERE](https://www.figma.com/proto/cS5l2nl3h0Zlbjy3Pc287I/Audit-Web?node-id=6-5779&p=f&viewport=248%2C366%2C0.11&t=FlsfH3d9YzBfZJuW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A5779&show-proto-sidebar=1&page-id=0%3A1))
+[🔗 View Lingscar Website Prototype ↗](https://www.figma.com/proto/cS5l2nl3h0Zlbjy3Pc287I/Audit-Web?node-id=6-5779&p=f&viewport=248%2C366%2C0.11&t=FlsfH3d9YzBfZJuW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A5779&show-proto-sidebar=1&page-id=0%3A1))
